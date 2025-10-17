@@ -20,6 +20,6 @@ Positions
 * 2024- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Fellow in the Research Unit on Skill Formation and Labor Markets, WZB
 * 2019-2023 &nbsp;&nbsp;&nbsp; Research Fellow in the Research Group on Health and Social Inequalities, WZB
 * 2019-2021 &nbsp;&nbsp;&nbsp; Research Assistant at the Cluster of Excellence "The Politics of Inequality", University of Konstanz
-* 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate Trainee in the Directorate General for Innovation and Technology, European Parliament
+* 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate Trainee in the Directorate General for Innovation and Technology, European Parliament
   
 You can find my full CV [here](http://christian-koenig.github.io/files/CV_07.25.pdf)
