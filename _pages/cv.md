@@ -11,54 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Sociology (*summa cum laude*), Freie Universität Berlin, 2024
+* M.Sc. Economics, University of Konstanz, 2019
+* B.A. Political Science and Economics, Eberhard Karls University Tübingen, 2016
 
-Work experience
+Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* | 2024- | Research Fellow in the Research Unit on Skill Formation and Labor Markets, WZB Berlin Social Science Center |
+* | 2019-2023 | Research Fellow in the Research Group on Health and Social Inequalities, WZB Berlin Social Science Center |
+* | 2019-2021 | Research Assistant at the Cluster of Excellence "The Politics of Inequality", University of Konstanz |
+* | 2018 | Graduate Trainee in the Directorate General for Innovation and Technology, European Parliament |
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+You can find my full CV [here](http://christian-koenig.github.io/files/CV_07.25.pdf)
