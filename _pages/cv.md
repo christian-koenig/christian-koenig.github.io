@@ -22,4 +22,4 @@ Positions
 2019-2021 &nbsp;&nbsp;&nbsp; Research Assistant at the Cluster of Excellence "The Politics of Inequality", University of Konstanz
 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate Trainee in the Directorate General for Innovation and Technology, European Parliament
   
-You can find my full CV [here](http://christian-koenig.github.io/files/CV_07.25.pdf)
+**You can find my full CV [here](http://christian-koenig.github.io/files/CV_07.25.pdf)**
