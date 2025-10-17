@@ -17,9 +17,9 @@ Education
 
 Positions
 ======
-* | 2024- | Research Fellow in the Research Unit on Skill Formation and Labor Markets, WZB Berlin Social Science Center |
-* | 2019-2023 | Research Fellow in the Research Group on Health and Social Inequalities, WZB Berlin Social Science Center |
-* | 2019-2021 | Research Assistant at the Cluster of Excellence "The Politics of Inequality", University of Konstanz |
-* | 2018 | Graduate Trainee in the Directorate General for Innovation and Technology, European Parliament |
+* 2024- Research Fellow in the Research Unit on Skill Formation and Labor Markets, WZB Berlin Social Science Center
+* 2019-2023 Research Fellow in the Research Group on Health and Social Inequalities, WZB Berlin Social Science Center
+* 2019-2021 Research Assistant at the Cluster of Excellence "The Politics of Inequality", University of Konstanz
+* 2018 Graduate Trainee in the Directorate General for Innovation and Technology, European Parliament
   
 You can find my full CV [here](http://christian-koenig.github.io/files/CV_07.25.pdf)
