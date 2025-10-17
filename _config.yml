@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Berlin"
-  employer         : "WZB Berlin Social\nScience Center"
+  employer         : "WZB Berlin Social<br>Science Center"
   uri              : # URL
   email            : "christian.koenig@wzb.eu" 
 
