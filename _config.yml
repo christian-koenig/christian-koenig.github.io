@@ -23,12 +23,12 @@ repository               : "christian-koenig/christian-koenig.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "pic1.png"
+  name             : "Dr. Christian König"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Berlin"
+  employer         : "WZB Berlin Social Sicence Center"
   uri              : # URL
   email            : "none@example.org" 
 
