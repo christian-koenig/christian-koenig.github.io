@@ -23,6 +23,9 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
+  - title: "CV2"
+    url: /cv2/
+
   - title: "CV"
     url: /cv/
     
