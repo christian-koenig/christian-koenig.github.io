@@ -9,6 +9,7 @@ venue: 'Urban Studies'
 #slidesurl: ''
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/00420980231224224'
 #bibtexurl: ''
-citation: 'König, C. (2024) „Neighbourhood structure and environmental quality: A fine-grained analysis of spatial inequalities in urban Germany“, Urban Studies, 61(10), S. 1968–1989. Verfügbar unter: https://doi.org/10.1177/00420980231224224'
+citation: 'König, C. (2024) “Neighbourhood structure and environmental quality: A fine-grained analysis of spatial inequalities in urban Germany,” Urban Studies, 61(10), pp. 1968–1989. Available at: https://doi.org/10.1177/00420980231224224.
+'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
