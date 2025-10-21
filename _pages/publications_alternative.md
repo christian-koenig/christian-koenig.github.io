@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
 ======
+
+Please find below my working papers, published articles, as well as book chapters, reports etc. Many of them are published open access (:unlock:). Otherwise, you can get access by clicking on :paperclip: or dropping me a one-liner by clicking on :mailbox:. You can access replication materials, if available, by clicking on :microscope:.
+
 
 ## Journal Articles
 
