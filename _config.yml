@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dr. Christian König"
+title                    : "Christian König"
 title_separator          : "-"
 name                     : &name "Christian König"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,12 +24,12 @@ repository               : "christian-koenig/christian-koenig.github.io"
 author:
   # Biographic information
   avatar           : "pic1.png"
-  name             : "Dr. Christian König"
+  name             : "Christian König"
   pronouns         : "he/him"  
   bio              : "Postdoctoral researcher in Sociology"
   location         : "Berlin"
   employer         : "WZB Berlin Social<br>Science Center"
-  uri              : # URL
+  uri              : "https://www.wzb.eu/en/persons/christian-konig"
   email            : "christian.koenig@wzb.eu" 
 
   # Academic websites
