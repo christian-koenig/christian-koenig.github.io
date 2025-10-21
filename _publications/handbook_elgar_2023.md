@@ -9,9 +9,7 @@ venue: 'Handbook of Health Inequalities Across the Life Course'
 #slidesurl: ''
 paperurl: 'https://www.elgaronline.com/view/book/9781800888166/book-part-9781800888166-30.xml'
 #bibtexurl: ''
-citation: 'König, C. and Heisig, J.P. (2023) “Environmental inequality and health outcomes over the life course,” in R. Hoffmann (ed.) Handbook of Health Inequalities Across the Life Course. Edward Elgar Publishing, pp. 327–348. Available at: https://doi.org/10.4337/9781800888166.00030.
-.
-'
+citation: 'König, C. and Heisig, J.P. (2023) “Environmental inequality and health outcomes over the life course,” in R. Hoffmann (ed.) Handbook of Health Inequalities Across the Life Course. Edward Elgar Publishing, pp. 327–348. Available at: https://doi.org/10.4337/9781800888166.00030.'
 ---
 
 This handbook chapter reviews conceptual and empirical work on how environmental quality affects health and on the social processes that generate unequal exposure. Embedding the discussion in a life-course perspective, we highlight dynamic, interdependent links between environmental quality, health, and other life domains such as education: early-life exposures, including in utero insults, may have immediate effects and also initiate latent processes that manifest as disease much later, potentially amplified by cumulative disadvantage. The review of empirical research centers on air pollution—where a large quasi-experimental literature provides compelling causal evidence of substantial health impacts and includes briefer treatments of extreme heat, green space, and noise. While selective, the review builds on and extends prior syntheses of pollution and greenspace effects. The chapter then addresses the distribution of environmental harms across social groups. Rather than treating residential sorting merely as a nuisance for causal inference, the authors emphasize sorting as a substantive equity issue: why do disadvantaged groups more often reside in unhealthy environments? Prominent explanations include financial constraints, housing and credit-market discrimination, and historical “legacy” patterns of segregation.
