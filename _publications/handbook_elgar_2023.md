@@ -1,7 +1,7 @@
 ---
 title: "Environmental inequality and health outcomes over the life course"
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/handbook_elgar_2023
 excerpt: 'Handbook chapter reviewing conceptual and empirical work on how environmental quality affects health and on the social processes that generate unequal exposure. Embedding the discussion in a life-course perspective, we highlight dynamic, interdependent links between environmental quality, health, and other life domains such as education: early-life exposures, including in utero insults, may have immediate effects and also initiate latent processes that manifest as disease much later, potentially amplified by cumulative disadvantage. The review of empirical research centers on air pollution—where a large quasi-experimental literature provides compelling causal evidence of substantial health impacts and includes briefer treatments of extreme heat, green space, and noise. While selective, the review builds on and extends prior syntheses of pollution and greenspace effects. The chapter then addresses the distribution of environmental harms across social groups. Rather than treating residential sorting merely as a nuisance for causal inference, the authors emphasize sorting as a substantive equity issue: why do disadvantaged groups more often reside in unhealthy environments? Prominent explanations include financial constraints, housing and credit-market discrimination, and historical “legacy” patterns of segregation.'
 date: 2023-04-14
