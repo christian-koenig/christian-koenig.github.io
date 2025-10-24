@@ -23,7 +23,7 @@ repository               : "christian-koenig/christian-koenig.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # ""
+  avatar           : "pic1.png"
   name             : "Christian König"
   pronouns         : "he/him"  
   bio              : "Postdoctoral researcher in Sociology"

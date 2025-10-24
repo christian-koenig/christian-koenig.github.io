@@ -13,3 +13,7 @@ I am a postdoctoral researcher at the WZB research unit on [Skill Formation and 
 
 
 <img src="http://christian-koenig.github.io/images/pic1.png" alt="this is me" width="200"/>
+
+
+![image](http://christian-koenig.github.io/images/pic1.png){: style="float: left"}
+Some test text.
