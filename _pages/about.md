@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img src="http://christian-koenig.github.io/images/pic.JPG" alt="image" style="float:left;width:250"/>
+<img src="http://christian-koenig.github.io/images/pic2.JPG" alt="image" style="float:left;width:250"/>
 
 
 My name is Christian and I am a quantitative sociologist with a background in economics and political science researching social inequalities in housing, health, education, and labor market attainment. My research agenda centers particularly on the **socio-spatial dimension of causes, patterns, and consequences of inequalities**.
