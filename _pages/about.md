@@ -12,4 +12,4 @@ My name is Christian and I am a quantitative sociologist with a background in ec
 I am a postdoctoral researcher at the WZB research unit on [Skill Formation and Labor Markets](https://wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets), where I work in the EU Horizon Europe project "Mapping inequalities through the life course" ([Mapineq](https://mapineq.eu/)), and a guest researcher at the WZB [Health and Social Inequality](https://wzb.eu/en/research/dynamics-of-social-inequalities/health-and-social-inequality) research group. 
 
 
-![This is me](http://christian-koenig.github.io/images/pic1.png)
+<img src="http://christian-koenig.github.io/images/pic1.png" alt="this is me" width="200"/>
