@@ -24,8 +24,8 @@ repository               : "christian-koenig/christian-koenig.github.io"
 author:
   # Biographic information
   avatar           : "pic1.png"
-  name             : "Postdoctoral researcher in Sociology"
-  pronouns         : #""  
+  name             : #""
+  pronouns         : "Postdoctoral researcher in Sociology"  
   bio              : #""
   location         : "Berlin"
   employer         : "WZB Berlin Social<br>Science Center"
