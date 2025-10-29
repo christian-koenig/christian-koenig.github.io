@@ -4,17 +4,20 @@
 
 /* Color codes used for the theme */
 /*$primary-color              : #00adb5;*/
-$primary-color              : #EBC8A7;
+/*$primary-color              : #EBC8A7;*/
+$primary-color              : #14332f;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
 
 /*$background                 : #252a34;*/
-$background                 : #2D545E;
+/*$background                 : #2D545E;*/
+$background                 : #9fabbc;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
 /*$text                       : #eaeaea;*/
-$text                       : #EBC8A7;
+/*$text                       : #EBC8A7;*/
+$text                       : #d7dce3;
 $link                       : mix($primary-color, $text, 40%);
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
