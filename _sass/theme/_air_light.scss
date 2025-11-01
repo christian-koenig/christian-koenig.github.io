@@ -4,7 +4,7 @@
 
 /* Color codes used for the theme */
 /*$primary-color              : #0092ca;*/
-$primary-color              : #545B5A;
+$primary-color              : #4F5A44;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
@@ -13,11 +13,11 @@ $light-primary-color        : mix(#000, $primary-color, 50%);
 $background                 : #E9ECE6;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
-$text                       : #222831;
+$text                       : #545B5A;
 /*$link                       : #393e46;*/
-$link                       : #545B5A;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$link                       : #4F5A44;
+$link-dark                  : #4F5A44;
+$link-light                 : #4F5A44;
 $footer                     : $primary-color;
 
 /* Color codes used for the site */
