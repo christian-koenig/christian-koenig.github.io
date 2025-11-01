@@ -11,9 +11,9 @@ redirect_from:
 <img src="http://christian-koenig.github.io/images/pic2.JPG" alt="image" style="float:left; padding-right: 30px; padding-bottom: 200px; padding-top: 50px;" width="350"/>
 
 
-**Hi there**
+# Christian König
+## Postdoctoral Researcher of Quantitative Sociology
 
-my name is Christian and I am a quantitative sociologist with a background in economics and political science researching social inequalities in housing, health, education, and labor market attainment. My research agenda centers particularly on the **socio-spatial dimension of causes, patterns, and consequences of inequalities**.
-I am a postdoctoral researcher at the WZB research unit on [Skill Formation and Labor Markets](https://wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets), where I work in the EU Horizon Europe project "Mapping inequalities through the life course" ([Mapineq](https://mapineq.eu/)), and a guest researcher at the WZB [Health and Social Inequality](https://wzb.eu/en/research/dynamics-of-social-inequalities/health-and-social-inequality) research group. 
+I am a postdoctoral researcher at the WZB research unit on [Skill Formation and Labor Markets](https://wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets), where I work in the EU Horizon Europe project "Mapping inequalities through the life course" ([Mapineq](https://mapineq.eu/)), and a guest researcher at the WZB [Health and Social Inequality](https://wzb.eu/en/research/dynamics-of-social-inequalities/health-and-social-inequality) research group. My research interests lie primarily in socio-spatial inequalities with a particular focus on neighborhood environments, housing, health, education, and labor market attainment.
 
-Read more about me here test 1 [About]({{ "/about_long/" }})
+[MORE ABOUT ME &rarr;]({{ "/about_long/" }})
