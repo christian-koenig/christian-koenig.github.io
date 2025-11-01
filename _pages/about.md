@@ -14,6 +14,7 @@ redirect_from:
 # Christian König
 ## Postdoctoral Researcher of Quantitative Sociology
 
-I am a postdoctoral researcher at the WZB research unit on [Skill Formation and Labor Markets](https://wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets), where I work in the EU Horizon Europe project "Mapping inequalities through the life course" ([Mapineq](https://mapineq.eu/)), and a guest researcher at the WZB [Health and Social Inequality](https://wzb.eu/en/research/dynamics-of-social-inequalities/health-and-social-inequality) research group. My research interests lie primarily in socio-spatial inequalities with a particular focus on neighborhood environments, housing, health, education, and labor market attainment.
+I am a postdoctoral researcher at the [WZB Berlin Social Science Center](https://www.wzb.eu/en/persons/christian-konig). My primary research interests lie in socio-spatial inequalities, particularly in the areas of neighborhood environments, housing, health, education, and labor market attainment.
 
-[MORE ABOUT ME &rarr;]({{ "/about_long/" }})
+
+[**MORE ABOUT ME &rarr;**]({{ "/about_long/" }})
