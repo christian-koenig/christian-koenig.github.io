@@ -17,4 +17,4 @@ redirect_from:
 I am a postdoctoral researcher at the [WZB Berlin Social Science Center](https://www.wzb.eu/en/persons/christian-konig). My primary research interests lie in socio-spatial inequalities, particularly in the areas of neighborhood environments, housing, health, education, and labor market attainment.
 
 
-[**MORE ABOUT ME** &rarr;]({{ "/about_long/" }})
+[**MORE ABOUT ME &rarr;**]({{ "/about_long/" }})
