@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-<img src="http://christian-koenig.github.io/images/pic2.JPG" alt="image" style="float:center; padding-right: 30px; padding-bottom: 200px; padding-top: 50px;" width="250"/>
+<img src="http://christian-koenig.github.io/images/pic2.JPG" alt="image" style="float:left; padding-right: 30px; padding-bottom: 200px; padding-top: 50px;" width="250"/>
 
-##**Hi there**
+**Hi there**
 
 my name is Christian and I am a quantitative sociologist at the WZB research unit on [Skill Formation and Labor Markets](https://wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets), where I work in the EU Horizon Europe project "Mapping inequalities through the life course" ([Mapineq](https://mapineq.eu/)). Until 2024, I have been a junior researcher at the WZB [Health and Social Inequality](https://wzb.eu/en/research/dynamics-of-social-inequalities/health-and-social-inequality) research group and a doctoral candidate at the [Department of Political and Social Sciences of the Freie Universität Berlin](https://www.polsoz.fu-berlin.de/en/index.html). Prior to joining WZB, I earned a B.A. in Political Sciences and Economics from the University of Tübingen and a M.Sc. in Economics from the University of Konstanz.
 
