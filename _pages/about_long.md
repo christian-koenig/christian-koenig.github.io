@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="http://christian-koenig.github.io/images/pic2.JPG" alt="image" style="float:left; padding-right: 30px; padding-bottom: 200px; padding-top: 50px;" width="250"/>
+<img src="http://christian-koenig.github.io/images/pic2.JPG" alt="image" style="float:center; padding-right: 50px; padding-left: 50px; padding-bottom: 50px; padding-top: 50px;" width="300"/>
+
+
 
 **Hi there**
 
