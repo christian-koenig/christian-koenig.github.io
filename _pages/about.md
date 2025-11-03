@@ -11,7 +11,7 @@ redirect_from:
 <img src="http://christian-koenig.github.io/images/pic2.JPG" alt="image" style="float:left; padding-right: 30px; padding-bottom: 200px; padding-top: 50px;" width="350"/>
 
 
-## Christian König
+# Christian König
 
 **Postdoctoral Researcher of Quantitative Sociology**
 
