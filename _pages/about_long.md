@@ -21,11 +21,8 @@ My primary research interests lie in the **spatial dimension of causes, patterns
 
 One of my recent projects explores the heterogeneous impacts of air pollution exposure at school on educational performance of students from different backgrounds in Italy. As part of the "Mapping inequalities through the life course" ([Mapineq](https://mapineq.eu/)) project, I examine the medium- to long-run effects of regional labor market conditions at the time of entry on young adults' labor market outcomes and family formation. A further project studies how barriers to accessing tertiary education vary across space and by parental socioeconomic status by examining whether study choices of young adults are affected by spatial proximity to universities and housing costs at potential study destinations.
 
-Education
-======
-* Ph.D in Sociology (*summa cum laude*), Freie Universität Berlin, 2024
-* M.Sc. Economics, University of Konstanz, 2019
-* B.A. Political Science and Economics, Eberhard Karls University Tübingen, 2016
+
+# Short Bio
 
 Positions
 ======
@@ -36,5 +33,13 @@ Positions
 2019-2021 &nbsp;&nbsp;&nbsp; Research Assistant at the Cluster of Excellence "The Politics of Inequality", University of Konstanz
 
 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate Trainee in the Directorate General for Innovation and Technology, European Parliament
+
+
+Education
+======
+* Ph.D in Sociology (*summa cum laude*), Freie Universität Berlin, 2024
+* M.Sc. Economics, University of Konstanz, 2019
+* B.A. Political Science and Economics, Eberhard Karls University Tübingen, 2016
+
   
 **You can find my full CV [here](http://christian-koenig.github.io/files/CV_07.25.pdf)**
