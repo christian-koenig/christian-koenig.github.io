@@ -21,8 +21,9 @@ My primary research interests lie in the **spatial dimension of causes, patterns
 
 One of my recent projects explores the heterogeneous impacts of air pollution exposure at school on educational performance of students from different backgrounds in Italy. As part of the "Mapping inequalities through the life course" ([Mapineq](https://mapineq.eu/)) project, I examine the medium- to long-run effects of regional labor market conditions at the time of entry on young adults' labor market outcomes and family formation. A further project studies how barriers to accessing tertiary education vary across space and by parental socioeconomic status by examining whether study choices of young adults are affected by spatial proximity to universities and housing costs at potential study destinations.
 
-
-# Short Bio
+<br>
+<br>
+<br>
 
 Positions
 ======
