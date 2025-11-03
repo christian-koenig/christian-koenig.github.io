@@ -11,9 +11,6 @@ main:
   - title: "About"
     url: /about_long/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Publications"
     url: /publications_alternative/
 
@@ -31,6 +28,9 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+
+  - title: "CV"
+    url: /cv/
     
   #- title: "CV"
   #   url: /cv-json/
