@@ -25,6 +25,12 @@ One of my recent projects explores the heterogeneous impacts of air pollution ex
 <br>
 <br>
 
+Education
+======
+* Ph.D in Sociology (*summa cum laude*), Freie Universität Berlin, 2024
+* M.Sc. Economics, University of Konstanz, 2019
+* B.A. Political Science and Economics, Eberhard Karls University Tübingen, 2016
+
 Positions
 ======
 2024- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Fellow in the Research Unit on Skill Formation and Labor Markets, WZB
@@ -35,12 +41,11 @@ Positions
 
 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate Trainee in the Directorate General for Innovation and Technology, European Parliament
 
-
-Education
+Teaching
 ======
-* Ph.D in Sociology (*summa cum laude*), Freie Universität Berlin, 2024
-* M.Sc. Economics, University of Konstanz, 2019
-* B.A. Political Science and Economics, Eberhard Karls University Tübingen, 2016
+2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction to causal research designs (Seminar, MA), Freie Universität Berlin
+2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mapping inequalities across the Life Course (Seminar, MA), Freie Universität Berlin
+2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inequality and Social Stratification (Seminar, MA), Freie Universität Berlin
 
   
 **You can find my full CV [here](http://christian-koenig.github.io/files/CV_11.25.pdf)**
