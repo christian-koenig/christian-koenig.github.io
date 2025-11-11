@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img src="http://christian-koenig.github.io/images/pic2.JPG" alt="image" style="float:left; padding-right: 30px; padding-bottom: 200px; padding-top: 30px;" width="380"/>
+<img src="http://christian-koenig.github.io/images/pic2.JPG" alt="image" style="float:left; padding-right: 30px; padding-bottom: 30px; padding-top: 30px;" width="380"/>
 
 
 # Christian König
