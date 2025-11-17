@@ -47,7 +47,7 @@ Teaching
 
 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mapping inequalities across the Life Course (Seminar, MA), Freie Universität Berlin
 
-2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inequality and Social Stratification (Seminar, MA), Freie Universität Berlin
+2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inequality and Social Stratification (Seminar, MA), Freie Universität Berlin
 
 
   
