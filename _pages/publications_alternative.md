@@ -15,10 +15,10 @@ Please find below my working papers, published articles, as well as book chapter
 ## Working Papers
 
 König, C., Biegert, T., Heisig, J.P. and Solga, H. (2025) “Cross-national analysis of the short- and longer-term effects of conditions at labor market entry.” Available at: [https://doi.org/10.5281/ZENODO.15349521](https://doi.org/10.5281/ZENODO.15349521).
-[:unlock:](http://christian-koenig.github.io/files/D4.2_2025.pdf)
+[:unlock:](http://christian-koenig.github.io/files/D4.2_2025.pdf) [:mag:](https://osf.io/ns84w/overview?view_only=f609bff2369a41f2883fac78e79e466b)
 
 König, C., Biegert, T., Heisig, J.P. and Solga, H. (2025) “Explorative analysis of the short- and longer-term effects of economic conditions at labor market entry on leaving the parental home and family formation.” Available at: [https://doi.org/10.5281/ZENODO.15585190](https://doi.org/10.5281/ZENODO.15585190).
-[:unlock:](http://christian-koenig.github.io/files/D4.3_2025.pdf)
+[:unlock:](http://christian-koenig.github.io/files/D4.3_2025.pdf) [:mag:](https://osf.io/ns84w/overview?view_only=f609bff2369a41f2883fac78e79e466b)
 
 
 ## Journal Articles
