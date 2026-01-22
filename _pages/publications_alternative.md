@@ -24,7 +24,7 @@ König, C., Biegert, T., Heisig, J.P. and Solga, H. (2025) “Explorative analys
 ## Journal Articles
 
 König, C., Salomo, K. and Helbig, M. (forthcoming) “Understanding Variation in Neighbourhood Environmental Inequalities: The Influence of Residential Segregation, Gentrification, and other City-Level Factors”, Urban Studies. Pre-print available at: [https://doi.org/10.31235/osf.io/j4tf2](https://doi.org/10.31235/osf.io/j4tf2). 
-[:unlock:](http://christian-koenig.github.io/files/Koenig_Salomo_Helbig_2024.pdf)
+[:unlock:](http://christian-koenig.github.io/files/Koenig_Salomo_Helbig_2024.pdf) [:mag:](https://github.com/christian-koenig/Understanding_variation_EI)
 
 König, C. (2024) “Neighbourhood structure and environmental quality: A fine-grained analysis of spatial inequalities in urban Germany,” Urban Studies, 61(10), pp. 1968–1989. Available at: [https://doi.org/10.1177/00420980231224224](https://doi.org/10.1177/00420980231224224).
 [:unlock:](https://journals.sagepub.com/doi/10.1177/00420980231224224)
