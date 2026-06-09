@@ -23,6 +23,9 @@ König, C., Biegert, T., Heisig, J.P. and Solga, H. (2025) “Explorative analys
 
 ## Journal Articles
 
+Nennstiel, R. and König, C. (2026) “The thermostat of opportunity: Home air conditioning, its social gradient, and educational consequences,” Energy Research & Social Science, 138, p. 104785. Available at: [https://doi.org/10.1016/j.erss.2026.104785](https://doi.org/10.1016/j.erss.2026.104785). 
+[:unlock:](http://christian-koenig.github.io/files/Nennstiel_König_2026.pdf) [:mag:](https://osf.io/943pc/)
+
 König, C., Salomo, K. and Helbig, M. (2026) “Understanding Variation in Neighbourhood Environmental Inequalities: The Influence of Residential Segregation, Gentrification, and other City-Level Factors”, Urban Studies. Available at: [https://doi.org/10.1177/00420980251412793](https://doi.org/10.1177/00420980251412793). 
 [:unlock:](http://christian-koenig.github.io/files/Koenig_Salomo_Helbig_2024.pdf) [:mag:](https://github.com/christian-koenig/Understanding_variation_EI)
 
