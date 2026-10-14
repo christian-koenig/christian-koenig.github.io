@@ -60,3 +60,39 @@ I am a postdoctoral researcher at the [WZB Berlin Social Science Center](https:/
   </div>
 
 </div>
+
+<!-- ===================== NEWS ITEM: PODCAST ===================== -->
+<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: flex-start; margin-top: 20px; margin-bottom: 35px;">
+
+  <div style="flex: 1 1 280px; max-width: 420px;">
+    <a href="https://www.leibniz-gemeinschaft.de/mainnavigation/neues/podcasts/podcast-tonspur-wissen/bekommt-man-mit-einer-klimaanlage-bessere-noten" target="_blank">
+      <!-- Podcast covers are usually square; max-width keeps it from getting too tall. Adjust or remove as you like. -->
+      <img src="{{ '/images/tonspur_wissen.jpg' | relative_url }}" 
+           alt="Cover of the podcast episode Tonspur Wissen" 
+           style="width: 100%; max-width: 300px; border: 1px solid #ddd; border-radius: 6px;">
+    </a>
+  </div>
+
+  <div style="flex: 2 1 400px;">
+    <p style="margin-top: 0; color: #666;"><strong>September 2026</strong></p>
+
+    <h3 style="margin-top: 0;">
+      Podcast episode Tonspur Wissen 
+    </h3>
+
+    <p>
+      Interview on recently published paper in Energy Research and Social Science on adolescents' unequal access to air conditioning (AC) at home and consequences for PISA test scores.
+    </p>
+
+    <p>
+      <a href="https://www.leibniz-gemeinschaft.de/mainnavigation/neues/podcasts/podcast-tonspur-wissen/bekommt-man-mit-einer-klimaanlage-bessere-noten" target="_blank">
+        <strong>Listen to the episode &rarr;</strong>
+      </a>
+      <br>
+      <a href="https://www.sciencedirect.com/science/article/pii/S2214629626002562" target="_blank">
+        <strong>Read the paper &rarr;</strong>
+      </a>
+    </p>
+  </div>
+
+</div>
