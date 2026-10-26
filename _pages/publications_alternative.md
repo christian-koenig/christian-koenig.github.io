@@ -25,6 +25,8 @@ König, C. (2024) “Neighbourhood structure and environmental quality: A fine-g
 
 
 ## Book Chapters and Reports
+König, C., Biegert, T., Heisig, J.P. and Solga, H. (2025) “Explorative analysis of the short- and longer-term effects of economic conditions at labor market entry on leaving the parental home and family formation,” Mapineq Deliverable D4.3, Horizon Europe project “Mapping inequalities through the life course”. Available at: [https://doi.org/10.5281/ZENODO.15585190](https://doi.org/10.5281/ZENODO.15585190).
+[:unlock:](http://christian-koenig.github.io/files/D4.3_2025.pdf) [:mag:](https://osf.io/ns84w/overview?view_only=f609bff2369a41f2883fac78e79e466b)
 
 König, C. and Heisig, J.P. (2023) “Environmental inequality and health outcomes over the life course,” in R. Hoffmann (ed.) Handbook of Health Inequalities Across the Life Course. Edward Elgar Publishing, pp. 327–348. Available at: [https://doi.org/10.4337/9781800888166.00030](https://doi.org/10.4337/9781800888166.00030).
 [:mailbox:](mailto:christian.koenig@wzb.eu)
@@ -61,9 +63,6 @@ Heisig, J.P. and König, C. (2020) “Wie und warum die gesundheitlichen Folgen 
 
 “The Social Stratification of Luck: How the Consequences of Macroeconomic Conditions at Labor Market Entry Vary by Gender, Education, and Institutional Context” (with Thomas Biegert, Jan Paul Heisig, and Heike Solga). Earlier version available as working paper: König, C., Biegert, T., Heisig, J.P. and Solga, H. (2025) “Cross-national analysis of the short- and longer-term effects of conditions at labor market entry.” [https://doi.org/10.5281/ZENODO.15349521](https://doi.org/10.5281/ZENODO.15349521).
 [:unlock:](http://christian-koenig.github.io/files/D4.2_2025.pdf) [:mag:](https://osf.io/ns84w/overview?view_only=f609bff2369a41f2883fac78e79e466b)
-
-König, C., Biegert, T., Heisig, J.P. and Solga, H. (2025) “Explorative analysis of the short- and longer-term effects of economic conditions at labor market entry on leaving the parental home and family formation.” Working paper. Available at: [https://doi.org/10.5281/ZENODO.15585190](https://doi.org/10.5281/ZENODO.15585190).
-[:unlock:](http://christian-koenig.github.io/files/D4.3_2025.pdf) [:mag:](https://osf.io/ns84w/overview?view_only=f609bff2369a41f2883fac78e79e466b)
 
 “Environmental Quality, Local Infrastructures, and Residential Choice: A Survey Experiment on Ethnic Differences in Neighborhood Preferences” (with Jan Paul Heisig, Tobias Rüttenauer, Merlin Schaeffer, and Jonas Wiedner).
 
